@@ -1,0 +1,11 @@
+{
+  "name": "com.codewriter.scene-material-analyzer",
+  "displayName": "Scene Material Analyer",
+  "description": "Tool for analyzing materials and shaders used in scenes ",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "license": "MIT",
+  "author": "CodeWriter (https://github.com/orgs/codewriter-packages)",
+  "homepage": "https://github.com/codewriter-packages/SceneMaterialAnalyzer#readme",
+  "dependencies": {}
+}
